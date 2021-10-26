@@ -20,6 +20,7 @@ In the section below, create an **unordered list** of the three articles you fou
 ## Accompanying Image
 In this section, please **display one image** to accompany your text, and describe _why_ you included it (~2 - 3 sentences). This will require that you download an image into your project folder. In your description, use **bold** and _italics_ (at least once, for practice) to emphasize some of your points.
 
+![alt text](https://github.com/kpham62/test_protests/blob/main/protests-civil-rights-black-lives-matter-1960-2020.jpg)
 
 I included this image because it emphasizes the similarities in the struggle for **racial equality** and **civil rights** throughout time. Although, this struggle has been going on for much longer than since the 1960s -- the reality is that black people have been challenging white supremacist violence for _much over a century_. I believe this image is an important starting point for discussion on how racial inequality has been ingrained into the DNA of the U.S. and how we can make change in spite of it.
 
