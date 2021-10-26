@@ -33,7 +33,7 @@ There is a **large** difference between the mean and median of the number of att
 
 - Does the number of protests in Washington surprise you? Why or why not?
 
-1375 protests (while making up about 13.7% of all protests on the data set) is a lot, and for me it's unsurprising. Washington is generally a liberal state, especially in urban areas, so progressive movements are not unfamiliar with the state's citizens (including me who also protested).
+1375 protests (while making up about 3.6% of all protests on the data set) is a quite a bit given there are 50 states, and for me it's unsurprising. Washington is generally a liberal state, especially in urban areas, so progressive movements are not unfamiliar with the state's citizens (including me who also protested).
 
 - Looking at the `state_table` variable, what data quality issues do you notice, and how would you use that to change your analysis (no need to actually change your analysis)?
 
