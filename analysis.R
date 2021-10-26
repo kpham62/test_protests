@@ -99,8 +99,8 @@ num_in_wa <- sum(str_count(protests$Location, "WA"))
 print(num_in_wa)
 
 # What proportion of protests occurred in Washington? `prop_in_wa`
-# Proportion of protests occurred in Washington = 0.1369931
-prop_in_wa <- num_in_wa/num_locations
+# Proportion of protests occurred in Washington = 0.03609208
+prop_in_wa <- num_in_wa/length(locations)
 print(prop_in_wa)
 
 # Reflection: Does the number of protests in Washington surprise you?
